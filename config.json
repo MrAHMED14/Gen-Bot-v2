@@ -1,0 +1,33 @@
+{
+  "port": "3000",
+
+  "clientId": "1165929335740444682",
+  "guildId": "964810146129801248",
+
+  "Free_Gen_Channel": "1197660022054858864",
+  "Premium_Gen_Channel": "1197562524485300416",
+  "Riot_Gen_Channel": "1197660062374711397",
+
+  "status": "Netflix 🔥",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Enjoy!",
+
+  "Free_Gen_Cooldown": "600",
+  "Premium_Gen_Cooldown": "300",
+  "Riot_Gen_Cooldown": "120",
+
+  "_comment": "BOT SETTINGS",
+  "avatar": "https://cdn.discordapp.com/icons/1142081260328599662/a_a747205dc6fbe93cfb5de6209f2e7d16.gif?size=1024",
+  "color": {
+    "riotC": "#0033cc",
+    "freeC": "#00ff00",
+    "preC": "#ffff00",
+    "red": "#ed4245",
+    "default": "#ed4245"
+  },
+  "globalDeploy": false,
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
